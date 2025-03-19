@@ -1,8 +1,8 @@
 # Confined-Indorms
 My second game at Gameheads (Jun 2020-Dec 2020)
 
-Team page: https://linktr.ee/quaranteam /n
-Game page: https://gameheads.itch.io/confined-indorms /n
+<p>Team page: https://linktr.ee/quaranteam <br />
+Game page: https://gameheads.itch.io/confined-indorms </p>
 
 # Screenshots:
 ![Scsn8r](https://github.com/user-attachments/assets/d547233c-fd17-41f8-9859-b4a182b60bc7)
